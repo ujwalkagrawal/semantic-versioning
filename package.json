@@ -9,5 +9,8 @@
   "bugs": {
     "url": "https://github.com/ujwalkagrawal/semantic-versioning/issues"
   },
+  "scripts": {
+    "echo": "echo $npm_package_version"
+  },
   "homepage": "https://github.com/ujwalkagrawal/semantic-versioning#readme"
 }
